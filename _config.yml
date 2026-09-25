@@ -1,0 +1,24 @@
+# Site settings — Field Notes
+title: Gaofei Shen
+description: >-
+  I am a linguist working on artificial intelligence applications of spoken
+  language technologies such as speech recognition and speech synthesis.
+url: "https://www.gaofeishen.com"
+baseurl: ""
+lang: en
+timezone: Europe/Amsterdam
+
+author:
+  name: Gaofei Shen
+  email: g.shen@tilburguniversity.edu
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .bundle

@@ -1,0 +1,94 @@
+[
+  {
+    "year": "2026",
+    "title": "Beyond Decodability: Reconstructing Language Model Representations with an Encoding Probe",
+    "authors": [
+      "Gaofei Shen",
+      "Martijn Bentum",
+      "Tom Lentz",
+      "Afra Alishahi",
+      "Grzegorz Chrupała"
+    ],
+    "venue": "EMNLP 2026 (accepted)",
+    "arxiv": "2605.00607",
+    "code": "https://github.com/gchrupala/unprobe/tree/poc"
+  },
+  {
+    "year": "2026",
+    "title": "Tracking the Emergence of Linguistic Structure in Self-Supervised Models Learning from Speech",
+    "authors": [
+      "Marianne de Heer Kloots",
+      "Martijn Bentum",
+      "Hosein Mohebbi",
+      "Charlotte Pouw",
+      "Gaofei Shen",
+      "Willem Zuidema"
+    ],
+    "venue": "arXiv preprint",
+    "arxiv": "2604.02043"
+  },
+  {
+    "year": "2025",
+    "title": "What Do Self-Supervised Speech Models Know about Dutch? Analyzing Advantages of Language-Specific Pre-Training",
+    "authors": [
+      "Marianne de Heer Kloots",
+      "Hosein Mohebbi",
+      "Charlotte Pouw",
+      "Gaofei Shen",
+      "Willem Zuidema",
+      "Martijn Bentum"
+    ],
+    "venue": "Interspeech 2025",
+    "pages": "256–260",
+    "doi": "10.21437/Interspeech.2025-1526",
+    "arxiv": "2506.00981",
+    "code": "https://github.com/mdhk/SSL-NL-eval"
+  },
+  {
+    "year": "2025",
+    "title": "On the Reliability of Feature Attribution Methods for Speech Classification",
+    "authors": [
+      "Gaofei Shen",
+      "Hosein Mohebbi",
+      "Arianna Bisazza",
+      "Afra Alishahi",
+      "Grzegorz Chrupała"
+    ],
+    "venue": "Interspeech 2025",
+    "pages": "266–270",
+    "doi": "10.21437/Interspeech.2025-1911",
+    "arxiv": "2505.16406",
+    "code": "https://github.com/techsword/reliability-speech-feat-attr"
+  },
+  {
+    "year": "2024",
+    "title": "Encoding of Lexical Tone in Self-Supervised Models of Spoken Language",
+    "authors": [
+      "Gaofei Shen",
+      "Michaela Watkins",
+      "Afra Alishahi",
+      "Arianna Bisazza",
+      "Grzegorz Chrupała"
+    ],
+    "venue": "NAACL-HLT 2024",
+    "pages": "4250–4261",
+    "doi": "10.18653/v1/2024.naacl-long.239",
+    "arxiv": "2403.16865",
+    "code": "https://github.com/techsword/tone-encoding-in-speech-model"
+  },
+  {
+    "year": "2023",
+    "title": "Wave to Syntax: Probing Spoken Language Models for Syntax",
+    "authors": [
+      "Gaofei Shen",
+      "Afra Alishahi",
+      "Arianna Bisazza",
+      "Grzegorz Chrupała"
+    ],
+    "venue": "Interspeech 2023",
+    "pages": "1259–1263",
+    "doi": "10.21437/Interspeech.2023-679",
+    "arxiv": "2305.18957",
+    "code": "https://github.com/techsword/wave-to-syntax"
+  }
+]
